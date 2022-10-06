@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
+- path: Assets/Levels/Scenes/AI/AI_2_Flocking.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
